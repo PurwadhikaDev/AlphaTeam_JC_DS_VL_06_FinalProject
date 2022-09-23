@@ -1,6 +1,5 @@
 ## Final Project - Brazilian E-Commerce by Olist
-### By: Oktafransdy Taryaka | Safira Kemala Dewi 
-Alpha Team
+#### By: Oktafransdy Taryaka & Safira Kemala Dewi (Alpha Team)
 <hr>
 
 <!-- ABOUT THE PROJECT -->
