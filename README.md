@@ -37,7 +37,7 @@ Kemudian dari Data Brazilian E-Commerce tadi, kita akan bangun sebuah model *Tim
 Evaluasi Metric yang digunakan adalah MAPE, dimana MAPE menggambarkan selisih rata-rata dari nilai Forecast dengan nilai sesungguhnya yang dinotasikan dalam bentuk persentase. MAPE juga merupakan metrics yang paling banyak digunakan karena kemudahan interpretasinya dibandingkan metric lain.
 
 
-### **Conclusion & Recommendation**
+### **CONCLUSION & RECOMMENDATION**
 
 **Conclusion**
 
