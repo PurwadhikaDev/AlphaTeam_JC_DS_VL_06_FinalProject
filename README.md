@@ -1,3 +1,3 @@
-# AlphaTeam_JC_DS_VL_06_FinalProject
+## Final Project - Brazilian E-Commerce by Olist
 
 <!-- ABOUT THE PROJECT -->
