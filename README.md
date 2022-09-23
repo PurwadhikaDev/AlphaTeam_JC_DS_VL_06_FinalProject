@@ -13,3 +13,4 @@ Sebagai perusahaan <i>Fulfillment Center</i> yang akan melebarkan sayap ke pasar
 
 Berikut gambaran secara umum Brazilian E-Commerce by Olist.
 
+![Overview](https://github.com/PurwadhikaDev/AlphaTeam_JC_DS_VL_06_FinalProject/blob/2164d2d5a3dce8ad0d0fcb817199c2ee15c816a0/Overview.png?raw=True)
